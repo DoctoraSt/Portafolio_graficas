@@ -1,0 +1,3 @@
+Profe, el día 25 de marzo le mandé un mensaje diciéndole acerca de mi error con la libreria de GL, intenté colocar la librería del módulo 2 y la del módulo 3, incluso reiniciando y colocando otros archivos de la misma carpeta pero el error sigue siendo el mismo, de la librería de GL.
+
+No quería no subir el archivo, aquí le muestro que hice el intento y el error que me daba de manera continua.
